@@ -1,6 +1,0 @@
-2024/03/14-15:39:48.759 8703 Reusing MANIFEST /Users/danielru/Desktop/base-wweb-memory/.wwebjs_auth/session-bot_sessions/Default/Local Storage/leveldb/MANIFEST-000001
-2024/03/14-15:39:48.760 8703 Recovering log #7
-2024/03/14-15:39:48.761 8703 Reusing old log /Users/danielru/Desktop/base-wweb-memory/.wwebjs_auth/session-bot_sessions/Default/Local Storage/leveldb/000007.log 
-2024/03/14-15:41:49.781 b103 Level-0 table #11: started
-2024/03/14-15:41:49.802 b103 Level-0 table #11: 23909 bytes OK
-2024/03/14-15:41:49.842 b103 Delete type=0 #7
